@@ -1,0 +1,10 @@
+1. We have to export Paths for CONDA
+
+      > > export PATH="$PATH:/root/miniconda3/bin"
+
+2. activate environment for Python
+      > > source activate pycoin
+
+3. to watch the pachages
+import sys
+print(sys.path)

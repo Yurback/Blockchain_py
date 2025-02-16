@@ -1,0 +1,6 @@
+name: My Application
+version: 1.0
+features:
+        - database
+        - user_interface
+        - api
